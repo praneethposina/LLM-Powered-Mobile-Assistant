@@ -14,7 +14,7 @@ import os
 import time
 import sys
 
-os.environ["GROQ_API_KEY"] = "llama-3.1-70b-versatile"
+os.environ["GROQ_API_KEY"] = "GROQ_API_KEY"
 
 def setup_appium():
     options = AppiumOptions()
