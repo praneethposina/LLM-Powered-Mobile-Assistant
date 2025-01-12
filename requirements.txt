@@ -1,0 +1,36 @@
+# Core dependencies
+flask>=2.0.1
+appium-python-client>=2.11.1
+selenium>=4.9.0
+nodeenv>=1.8.0
+
+# AI/ML
+groq>=0.4.0
+llama-cpp-python>=0.2.0
+
+# HTTP/API
+requests>=2.31.0
+urllib3>=2.0.0
+
+# XML Processing
+lxml>=4.9.0
+
+# Utility
+python-dotenv>=1.0.0
+uuid>=1.30
+
+# Testing & Development
+pytest>=7.4.0
+black>=23.3.0
+flake8>=6.0.0
+
+# Android Debug Bridge
+pure-python-adb>=0.3.0.dev0
+android-platform-tools>=34.0.4
+
+# Threading & Async
+asyncio>=3.4.3
+aiohttp>=3.8.1
+
+# Logging & Monitoring
+logging>=0.4.9.6 

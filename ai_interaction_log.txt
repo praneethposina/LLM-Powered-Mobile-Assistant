@@ -1,0 +1,80 @@
+Step 1/15:
+Command: open YouTube 
+Screen Information:
+At a glance|Bounds:[65,232][1015,501]|ViewPager
+Sun, Jan 12|Bounds:[65,283][342,353]|TextView
+Cloudy, 0°C|Bounds:[65,366][215,450]|TextView
+World|Bounds:[656,1479][1024,1749]|LauncherAppWidgetHostView
+12:14|Bounds:[728,1552][952,1675]|TextView
+AM / Mon|Bounds:[761,1675][918,1726]|TextView
+Home|Bounds:[0,136][1080,2337]|View
+Phone|Bounds:[65,1896][215,2065]|TextView
+Messages|Bounds:[265,1896][415,2065]|TextView
+Camera|Bounds:[465,1896][615,2065]|TextView
+UKG Dimensions|Bounds:[665,1896][815,2065]|TextView
+ChatGPT|Bounds:[865,1896][1015,2065]|TextView
+Google search|Bounds:[71,2125][1009,2290]|FrameLayout
+Google app|Bounds:[82,2144][208,2270]|ImageView
+Voice search|Bounds:[746,2125][872,2290]|ImageView
+Google Lens|Bounds:[872,2125][998,2290]|ImageButton
+
+Action:
+Type: CLICK, Element: Google search, Bounds: [71,2125][1009,2290], Description: Click Google search to search for youtube
+Screen Awareness: The home screen is displayed with various apps and the Google search bar at the bottom.
+Previous step successful: True
+Task complete: False
+
+Step 2/15:
+Command: open YouTube 
+Screen Information:
+WhatsApp|Bounds:[40,336][240,610]|TextView
+Snapchat|Bounds:[240,336][440,610]|TextView
+Instagram|Bounds:[440,336][640,610]|TextView
+YouTube|Bounds:[640,336][840,610]|TextView
+Act Model App|Bounds:[840,336][1040,610]|TextView
+Search australia vs india|Bounds:[208,685][586,755]|TextView
+Show predictions for australia vs india|Bounds:[909,657][1035,783]|ImageButton
+Search 16032 train running status|Bounds:[208,841][796,911]|TextView
+Show predictions for 16032 train running status|Bounds:[909,813][1035,939]|ImageButton
+Search india vs australia|Bounds:[208,997][586,1067]|TextView
+Show predictions for india vs australia|Bounds:[909,969][1035,1095]|ImageButton
+Search klecet 2024 exam paper|Bounds:[208,1153][755,1223]|TextView
+Show predictions for klecet 2024 exam paper|Bounds:[909,1125][1035,1251]|ImageButton
+Team Truecaller|Bounds:[61,1281][187,1407]|TextView
+Search the odyssey movie christopher nolan cast|Bounds:[208,1309][867,1379]|TextView
+Show predictions for the odyssey movie christopher nolan cast|Bounds:[909,1281][1035,1407]|ImageButton
+Search f1|Bounds:[208,1465][266,1535]|TextView
+Show predictions for f1|Bounds:[909,1468][1035,1594]|ImageButton
+Search|Bounds:[19,154][1061,319]|FrameLayout
+Google app|Bounds:[40,173][166,299]|ImageView
+Search web and more|Bounds:[187,158][798,315]|EditText
+Voice search|Bounds:[798,173][924,299]|ImageView
+Google Lens|Bounds:[924,173][1050,299]|ImageButton
+Home|Bounds:[0,136][1080,2337]|View
+
+Action:
+Type: CLICK, Element: YouTube, Bounds: [640,336][840,610], Description: Click YouTube to open the app
+Screen Awareness: The home screen is displayed with various apps, including YouTube.
+Previous step successful: True
+Task complete: False
+
+Step 3/15:
+Command: open YouTube 
+Screen Information:
+YouTube|Bounds:[0,136][320,262]|ImageView
+Cast. Disconnected|Bounds:[701,136][828,262]|Button
+Notifications, 3|Bounds:[828,136][954,262]|ImageView
+Search|Bounds:[954,136][1080,262]|ImageView
+Home|Bounds:[0,2211][216,2337]|Button
+Shorts|Bounds:[216,2211][432,2337]|Button
+Create|Bounds:[432,2211][648,2337]|Button
+Subscriptions: New content is available|Bounds:[648,2211][864,2337]|Button
+New content available|Bounds:[762,2220][794,2252]|View
+You|Bounds:[864,2211][1080,2337]|Button
+
+Action:
+Type: CLICK, Element: YouTube, Bounds: [0,136][320,262], Description: Click the YouTube icon to open the app
+Screen Awareness: The screen displays various icons and buttons including the YouTube icon.
+Previous step successful: True
+Task complete: True
+

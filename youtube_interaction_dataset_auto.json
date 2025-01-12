@@ -1,0 +1,63 @@
+[
+  {
+    "command": "play devara song on youtube",
+    "steps": [
+      {
+        "step": 1,
+        "task": "play devara song on youtube",
+        "screen_info": "Abound|[40,655][240,967]|TextView\nAJIO|[240,655][440,967]|TextView\nAmazon Shopping|[440,655][640,967]|TextView\nAppium Settings|[640,655][840,967]|TextView\nAssistant|[840,655][1040,967]|TextView\nBBC Sounds|[40,967][240,1279]|TextView\nBofA|[240,967][440,1279]|TextView\nBurger King|[440,967][640,1279]|TextView\nCalculator|[640,967][840,1279]|TextView\nCalendar has 3 notifications|[840,967][1040,1279]|TextView\nCall of Duty|[40,1279][240,1591]|TextView\nCamera|[240,1279][440,1591]|TextView\nCapital One|[440,1279][640,1591]|TextView\nChatGPT|[640,1279][840,1591]|TextView\nChime|[840,1279][1040,1591]|TextView\nYouTube|[40,336][240,610]|TextView\nChrome|[240,336][440,610]|TextView\nSnapchat|[440,336][640,610]|TextView\nBurger King|[640,336][840,610]|TextView\nWhatsApp|[840,336][1040,610]|TextView\nSearch|[19,154][1061,319]|FrameLayout\nGoogle app|[40,173][166,299]|ImageView\nSearch web and more|[187,158][798,315]|EditText\nVoice search|[798,173][924,299]|ImageView\nGoogle Lens|[924,173][1050,299]|ImageButton\nHome|[0,136][1080,2337]|View",
+        "action": {
+          "action_type": "SCROLL",
+          "element_id": "",
+          "description": "The user scrolled through the screen.",
+          "previous_step_successful": true,
+          "task_complete": false,
+          "bounds": "",
+          "screen_awareness": "The screen displays a list of various applications, including shopping apps, games, productivity tools, and a search bar at the top."
+        }
+      },
+      {
+        "step": 2,
+        "task": "play devara song on youtube",
+        "screen_info": "Abound|[40,655][240,967]|TextView\nAJIO|[240,655][440,967]|TextView\nAmazon Shopping|[440,655][640,967]|TextView\nAppium Settings|[640,655][840,967]|TextView\nAssistant|[840,655][1040,967]|TextView\nBBC Sounds|[40,967][240,1279]|TextView\nBofA|[240,967][440,1279]|TextView\nBurger King|[440,967][640,1279]|TextView\nCalculator|[640,967][840,1279]|TextView\nCalendar has 3 notifications|[840,967][1040,1279]|TextView\nCall of Duty|[40,1279][240,1591]|TextView\nCamera|[240,1279][440,1591]|TextView\nCapital One|[440,1279][640,1591]|TextView\nChatGPT|[640,1279][840,1591]|TextView\nChime|[840,1279][1040,1591]|TextView\nChrome|[40,1591][240,1903]|TextView\nClaude|[240,1591][440,1903]|TextView\nClock|[440,1591][640,1903]|TextView\nCoinSwitch|[640,1591][840,1903]|TextView\nContacts|[840,1591][1040,1903]|TextView\nCorq|[40,1903][240,2215]|TextView\nCRED|[240,1903][440,2215]|TextView\nDiscord|[440,1903][640,2215]|TextView\nDoorDash|[640,1903][840,2215]|TextView\nDrive|[840,1903][1040,2215]|TextView\nDunkin'|[40,2215][240,2400]|TextView\nDuo Mobile|[240,2215][440,2400]|TextView\nFi|[440,2215][640,2400]|TextView\nFiles|[640,2215][840,2400]|TextView\nFit|[840,2215][1040,2400]|TextView\nYouTube|[40,336][240,610]|TextView\nChrome|[240,336][440,610]|TextView\nSnapchat|[440,336][640,610]|TextView\nBurger King|[640,336][840,610]|TextView\nWhatsApp|[840,336][1040,610]|TextView\nSearch|[19,154][1061,319]|FrameLayout\nGoogle app|[40,173][166,299]|ImageView\nSearch web and more|[187,158][798,315]|EditText\nVoice search|[798,173][924,299]|ImageView\nGoogle Lens|[924,173][1050,299]|ImageButton\nHome|[0,136][1080,2337]|View",
+        "action": {
+          "action_type": "SCROLL",
+          "element_id": "",
+          "description": "The user scrolled through the screen.",
+          "previous_step_successful": true,
+          "task_complete": false,
+          "bounds": "",
+          "screen_awareness": "The screen is displaying a list of apps and widgets, with some search and Google app functionalities visible at the top."
+        }
+      },
+      {
+        "step": 3,
+        "task": "play devara song  onyoutube",
+        "screen_info": "YouTube|[0,136][320,262]|ImageView\nCast. Disconnected|[701,136][828,262]|View\nNotifications|[828,136][954,262]|ImageView\nSearch|[954,136][1080,262]|ImageView\nHome|[0,2211][216,2337]|Button\nShorts|[216,2211][432,2337]|Button\nCreate|[432,2211][648,2337]|Button\nSubscriptions|[648,2211][864,2337]|Button\nYou|[864,2211][1080,2337]|Button",
+        "action": {
+          "action_type": "SCROLL",
+          "element_id": "",
+          "description": "The user scrolled through the screen, likely navigating through different content sections.",
+          "previous_step_successful": true,
+          "task_complete": false,
+          "bounds": "",
+          "screen_awareness": "The screen is currently displaying the main menu or navigation bar at the bottom, with various buttons and icons visible."
+        }
+      },
+      {
+        "step": 4,
+        "task": "play devara song on youtube",
+        "screen_info": "YouTube|[0,136][320,262]|ImageView\nCast. Disconnected|[701,136][828,262]|View\nNotifications, 9+|[828,136][954,262]|ImageView\nSearch|[954,136][1080,262]|ImageView\nShorts|[169,300][325,361]|ViewGroup\nThis man eats 12 peas in a meal. #shorts, 11 million views - play Short|[32,400][529,1146]|ViewGroup\nMore actions|[471,421][518,468]|ImageView\nJust a casual day at the office \ud83d\ude05, 327 million views - play Short|[551,400][1048,1146]|ViewGroup\nMore actions|[990,421][1037,468]|ImageView\nHow \u201cMan of Steel\u201d was filmed, 1.5 million views - play Short|[32,1166][529,1912]|ViewGroup\nMore actions|[471,1187][518,1234]|ImageView\nMuscle Man making Pure Almond Oil in Mumbai #oil #mumbai #coldpressoil, 11 million views - play Short|[551,1166][1048,1912]|ViewGroup\nMore actions|[990,1187][1037,1234]|ImageView\nSalaar FDFS Experience | Prabhas | Ft. @charinotsorry - 8 minutes, 59 seconds - Go to channel - Pranay Varma - 183K views - 9 months ago - play video|[0,1994][1080,2337]|ViewGroup",
+        "action": {
+          "action_type": "SCROLL",
+          "element_id": "",
+          "description": "Action performed on the element",
+          "previous_step_successful": false,
+          "task_complete": false,
+          "bounds": "",
+          "screen_awareness": "Unable to determine screen state due to error"
+        }
+      }
+    ]
+  }
+]
