@@ -16,7 +16,7 @@ This project demonstrates an AI-powered mobile automation system that can:
 
 A demonstration video showing the assistant in action is available in the repository `Action_Model_App_Demo.mp4`.
 
-![Action Model App Interface](Action_Model_App_SS.png)
+<img src="Action_Model_App_SS.png" width="600" alt="Action Model App Interface"/>
 
 Action Model App Interface
 
